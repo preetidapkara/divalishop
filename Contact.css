@@ -1,0 +1,72 @@
+.header{
+background-color:black;
+
+height:20%;
+width:100%;
+
+}
+
+.header
+ul{
+list-style-type:none;
+}
+
+ul, li{
+float:left
+}
+
+
+
+li {
+padding:15px;
+font-size:23px;
+background-color:C89595;
+height:30px;
+width:150px
+
+}
+
+
+
+ul li:hover {background: #DBD0C0;
+}
+
+
+.footer{
+background-color:black;
+color:white;
+padding:5%;
+height:20%;
+margin-top:450px;
+}
+
+body {
+ background-image: url("Wall.jpg");
+ background-color: #cccccc;
+
+}
+
+img{border-radius:50%
+
+}
+
+
+img{
+height:35%;
+width:20%;
+}
+
+
+form,
+outset {border-style: outset;
+border: 2px solid black;
+background-color:pink;
+width:50%;
+height:75%;
+margin-left:250px;
+display: inline-block;
+}
+
+
+
+
